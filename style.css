@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.backgroundtop{
+
+    background-color: rgb(231, 252, 245);
+
+}
+
+.navbar-brand img{
+    width: 250px;
+    height: 80px;
+}
+
+.color-red{
+    color: palevioletred;
+}
+
+.color-green{
+    color: green;
+}
+h1{
+    font-size: 200px;
+    font-weight: 800;
+}
+.row .col-md-3 img{
+    width: 80px;
+    margin: 50px 0px 20px 0px;
+    padding: 0px 0px 0px 10px;
+    
+}
+
+.row .col-md-3{
+
+    width: 16%;
+}
+.row .col-md-6{
+
+    padding: 50px 0px;
+}
+
+
+
+.container .text-h2{
+
+    text-align: center;
+    margin: 50px;
+
+}
+.card-icon img{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    position: relative;
+    left: 0px;
+    
+}
+.card-icon span{
+    position: relative;
+    top: 10px;
+    right: 3px;
+}
+
+
+
+.card{
+    margin-bottom: 100px;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.container .testimonial{
+    text-align: center;
+}
+
+.container .col-md-4 img{
+    width: 60%;
+}
+
+.row .col-md-2 ul{
+    list-style-type: none;
+}
+
+#full-width{
+
+    background-color: black;
+    color: white;
+    padding: 100px 0px 50px 0px;
+}
+
+#testi-monial{
+    padding-bottom: 100px;
+}
+
+#footer-last p{
+
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
+
+.row .col-md-2 ul li a{
+
+    color: white;
+}
